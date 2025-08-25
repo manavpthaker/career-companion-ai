@@ -2,9 +2,9 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Community](https://img.shields.io/badge/Community-500%2B-orange)](CASE_STUDY.md)
+[![Status](https://img.shields.io/badge/Status-Beta-orange)](https://github.com/manavpthaker/career-companion-ai)
 [![Ethics First](https://img.shields.io/badge/AI-Ethics--First-brightgreen)](docs/ethics.md)
-[![Support](https://img.shields.io/badge/Support-24%2F7-purple)](https://github.com/[username]/career-companion-ai/discussions)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-purple)](https://github.com/manavpthaker/career-companion-ai/issues)
 
 > **Turning career disruption into opportunity:** An AI-powered platform that gives every job seeker the support of an entire career services team—for free.
 
@@ -28,25 +28,32 @@ Imagine having:
 
 **Now you have all of them. For free. Available 24/7.**
 
-## 🎯 Real Impact for Real People
+## 🎯 What This Platform Offers
 
-### Success Stories from Our Community
+### Our Mission
 
-> "After being laid off from my PM role due to 'AI efficiency improvements,' I felt defeated. This platform helped me land 3 offers in 6 weeks—including one at a company building ethical AI products. The irony isn't lost on me." — Sarah, Senior PM
+This is a new open-source project built to help job seekers automate the repetitive parts of job searching while maintaining personalization and authenticity. 
 
-> "As a single parent, I couldn't spend 40 hours a week on applications. This system gave me back my evenings with my kids while landing me interviews at companies I never thought would respond." — Michael, Engineering Manager
+**What it actually does:**
+- Aggregates job postings from multiple sources (LinkedIn, job boards, company sites)
+- Helps generate personalized cover letters and resumes based on your experience
+- Tracks applications and follows up systematically
+- Researches companies using public news sources
+- Reduces time spent on repetitive tasks
 
-> "The personalization is incredible. Each application felt hand-crafted, not mass-produced. Response rates went from 2% to 31%." — Jennifer, Product Designer
+**What we're building toward:**
+- A supportive community of job seekers helping each other
+- Continuous improvements based on real user feedback
+- Ethical AI practices with transparency
+- Free tools that level the playing field
 
-### 📊 Community Impact Metrics
+### 🌱 Early Stage Project
 
-| What We've Achieved Together | Individual Impact | Community Scale |
-|------------------------------|-------------------|-----------------|
-| **Time Returned to Families** | 37 hours/week saved | 18,500 hours total |
-| **Confidence Restored** | 3.2x higher success rate | 89% report reduced anxiety |
-| **Fair Opportunities** | Bias-free matching | 67% reduction in discrimination |
-| **Financial Security** | $31K avg salary increase | $1.5M collective gains |
-| **Community Support** | 500+ helping each other | 24/7 peer assistance |
+This is an open-source project in active development. We're looking for:
+- Early users to provide feedback
+- Contributors to improve the codebase
+- Ideas for new features
+- Bug reports and testing
 
 ## 🚀 How It Works: Your Career Acceleration System
 
@@ -89,7 +96,7 @@ Your AI ethics advocate ensures fair treatment:
 ### Quick Setup
 ```bash
 # 1. Get your career companion
-git clone https://github.com/[username]/career-companion-ai
+git clone https://github.com/manavpthaker/career-companion-ai
 cd career-companion-ai
 
 # 2. Let us handle the technical stuff
@@ -196,15 +203,19 @@ This isn't just software—it's a community of people helping each other through
 
 ## 🌟 Why This Matters
 
-In 2024 alone:
-- **270,000+ tech workers** were laid off
-- **42% cited** "AI efficiency" as a factor
-- **Average job search** takes 5-6 months
-- **Mental health impact** affects entire families
+The job search process is broken:
+- Hundreds of applications with low response rates
+- Hours spent on repetitive tasks
+- Generic applications that don't stand out
+- Keeping track of multiple applications is overwhelming
 
-**We believe those displaced by AI deserve AI's help getting back on their feet.**
+**This platform aims to:**
+- Automate the repetitive parts while keeping the human touch
+- Help you create personalized applications at scale
+- Track and manage your pipeline efficiently
+- Give everyone access to tools that level the playing field
 
-This platform represents more than code—it's a statement that technology should uplift people, not replace them. Every successful placement is a victory for human dignity in the age of AI.
+This is an open-source project because we believe everyone deserves these tools, regardless of their ability to pay for premium services.
 
 ## 💪 Join the Movement
 
@@ -234,7 +245,7 @@ python start_companion.py --begin-journey
 
 *Turning career disruption into collective empowerment*
 
-[⭐ Star to Support](https://github.com/[username]/career-companion-ai) · [💬 Get Help](https://github.com/[username]/career-companion-ai/discussions) · [🎉 Share Success](https://github.com/[username]/career-companion-ai/issues/new?template=success-story.md)
+[⭐ Star to Support](https://github.com/manavpthaker/career-companion-ai) · [💬 Get Help](https://github.com/manavpthaker/career-companion-ai/discussions) · [🎉 Share Success](https://github.com/manavpthaker/career-companion-ai/issues)
 
 **Together, we rise. 🚀**
 
