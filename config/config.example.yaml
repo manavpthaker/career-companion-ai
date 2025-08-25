@@ -1,0 +1,59 @@
+application_settings:
+  auto_submit: false
+  follow_up_days: 7
+  max_applications_per_day: 10
+company_criteria:
+  industry_preference:
+    avoid:
+    - '[INDUSTRY_TO_AVOID]'
+    tier1:
+    - '[YOUR_TOP_INDUSTRY_1]'
+    - '[YOUR_TOP_INDUSTRY_2]'
+    tier2:
+    - '[ACCEPTABLE_INDUSTRY_1]'
+    - '[ACCEPTABLE_INDUSTRY_2]'
+  size:
+    minimum_employees: 100
+    preferred_employees: 500
+  stage:
+    avoid:
+    - Seed
+    - Pre-revenue
+    required:
+    - Public Company
+    - Series C+
+    - Profitable
+core_requirements:
+  compensation:
+    minimum_base: 80000
+    preferred_range_max: 150000
+    preferred_range_min: 100000
+    target_base: 120000
+  job_titles:
+    primary:
+    - '[YOUR_TARGET_TITLE_1]'
+    - '[YOUR_TARGET_TITLE_2]'
+    - '[YOUR_TARGET_TITLE_3]'
+    secondary:
+    - '[FALLBACK_TITLE_1]'
+    - '[FALLBACK_TITLE_2]'
+  location:
+    acceptable:
+    - '[SECONDARY_CITY]'
+    - Remote USA
+    home_base: '[YOUR_CITY], [YOUR_STATE]'
+    max_commute_minutes: 60
+    preferred:
+    - '[PRIMARY_CITY]'
+    - Remote
+    - Hybrid
+keywords:
+  preferred:
+  - '[NICE_TO_HAVE_1]'
+  - '[NICE_TO_HAVE_2]'
+  required:
+  - '[MUST_HAVE_SKILL_1]'
+  - '[MUST_HAVE_SKILL_2]'
+rate_limits:
+  pause_between_requests_seconds: 12
+  requests_per_minute: 5

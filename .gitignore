@@ -1,0 +1,55 @@
+# Personal and sensitive data
+config/google_credentials.json
+config/google_token.pickle
+config/token.json
+config/.env
+.env
+*.pickle
+*.db
+*.sqlite
+
+# Personal templates
+templates/resume.txt
+templates/cover_letter.txt
+config/job_search_config.yaml
+
+# Application data
+data/applications/
+data/approved/
+data/reviews/
+data/results/
+
+# Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Project specific
+data/progress.db
+data/metrics.json
+data/dashboard.html

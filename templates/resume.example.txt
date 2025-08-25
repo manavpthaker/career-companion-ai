@@ -1,0 +1,54 @@
+[YOUR_NAME]
+[YOUR_TITLE] | [YOUR_SPECIALIZATION]
+[YOUR_ADDRESS] | [YOUR_PHONE] | [YOUR_EMAIL] | linkedin.com/in/[YOUR_LINKEDIN]
+
+EXECUTIVE SUMMARY
+[2-3 sentences describing your experience and value proposition. Focus on:
+- Years of experience and domain expertise
+- Key achievements and metrics
+- Unique skills or perspectives you bring]
+
+TECHNICAL EXPERTISE
+[PRIMARY_SKILLS]: [List 4-5 primary technical skills]
+[FRAMEWORKS]: [List relevant frameworks and tools]
+[LANGUAGES]: [Programming languages if applicable]
+[TOOLS]: [Other relevant tools and platforms]
+
+EXPERIENCE
+
+[CURRENT_ROLE] | [CURRENT_COMPANY] | [START_DATE]-Present
+• [Achievement 1 with quantified impact - use action verbs]
+• [Achievement 2 focusing on business value delivered]
+• [Achievement 3 highlighting technical or leadership skills]
+• [Achievement 4 demonstrating innovation or problem-solving]
+
+[PREVIOUS_ROLE] | [PREVIOUS_COMPANY] | [START_DATE]-[END_DATE]
+• [Key achievement with metrics]
+• [Project or initiative you led]
+• [Technical accomplishment]
+• [Team or process improvement]
+
+[EARLIER_ROLE] | [COMPANY] | [START_DATE]-[END_DATE]
+• [Relevant accomplishment]
+• [Skill demonstration]
+• [Value delivered]
+
+EDUCATION
+
+[DEGREE] | [UNIVERSITY] | [GRADUATION_YEAR]
+[Relevant coursework, honors, or activities if recent graduate]
+
+CERTIFICATIONS & TRAINING
+• [Relevant certification 1]
+• [Relevant certification 2]
+• [Online courses or bootcamps if relevant]
+
+PROJECTS & PUBLICATIONS
+• [Open source project with GitHub link]
+• [Blog post or article if relevant]
+• [Speaking engagement or presentation]
+
+ADDITIONAL INFORMATION
+• [Languages spoken]
+• [Volunteer work]
+• [Relevant hobbies or interests]

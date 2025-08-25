@@ -1,0 +1,42 @@
+[HIRING_MANAGER_NAME]
+[TITLE]
+[COMPANY_NAME]
+[COMPANY_ADDRESS]
+
+Dear [HIRING_MANAGER_NAME / Hiring Team],
+
+**[HOOK: Company-specific challenge or opportunity]**
+
+[EXAMPLE: "As [COMPANY] scales its [SPECIFIC_INITIATIVE]..." OR "Your recent announcement about [NEWS/PRODUCT] aligns perfectly with..."]
+
+I bring [X years] of experience in [RELEVANT_DOMAIN], with a proven track record of [KEY_ACHIEVEMENT]. At [CURRENT/RECENT_COMPANY], I [SPECIFIC_ACCOMPLISHMENT_WITH_METRICS]. This experience directly aligns with your need for someone who can [REQUIREMENT_FROM_JOB_POSTING].
+
+**Why I'm Uniquely Qualified**
+
+• **[Their Requirement 1]**: In my role at [COMPANY], I [SPECIFIC_ACHIEVEMENT]. This demonstrates exactly the [CAPABILITY] you're seeking.
+
+• **[Their Requirement 2]**: My experience with [RELEVANT_SKILL/TECHNOLOGY] enabled me to [SPECIFIC_RESULT], which would translate directly to [VALUE_FOR_THEIR_COMPANY].
+
+• **[Their Requirement 3]**: I've successfully [RELEVANT_EXPERIENCE], giving me the [SKILL/PERSPECTIVE] needed to [CONTRIBUTE_TO_THEIR_GOALS].
+
+**The Value I'll Deliver**
+
+In my first 90 days, I would:
+• Assess your current [RELEVANT_AREA] and identify immediate opportunities for [IMPROVEMENT_TYPE]
+• Implement [SPECIFIC_SOLUTION/PROCESS] based on my experience with [RELEVANT_BACKGROUND]
+• Build relationships with [RELEVANT_STAKEHOLDERS] to ensure [DESIRED_OUTCOME]
+• Begin developing [LONG_TERM_INITIATIVE] to support [COMPANY_GOAL]
+
+**Why [COMPANY], Why Now**
+
+[COMPANY]'s mission to [COMPANY_MISSION/VALUE] resonates deeply with my belief in [RELATED_VALUE]. Your approach to [SPECIFIC_COMPANY_ATTRIBUTE] aligns with my experience in [RELEVANT_AREA]. I'm excited about the opportunity to contribute to [SPECIFIC_COMPANY_GOAL_OR_PROJECT].
+
+I would welcome the opportunity to discuss how my experience with [KEY_SKILL/ACHIEVEMENT] can contribute to [COMPANY]'s continued success. I'm available for a conversation at your convenience and can be reached at [PHONE] or [EMAIL].
+
+Thank you for considering my application. I look forward to the possibility of contributing to [COMPANY]'s [SPECIFIC_GOAL/MISSION].
+
+Sincerely,
+[YOUR_NAME]
+
+---
+Attachments: Resume, Portfolio Link: [YOUR_PORTFOLIO_URL]
