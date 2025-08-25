@@ -95,80 +95,60 @@ Your AI ethics advocate ensures fair treatment:
 
 ### Quick Setup
 ```bash
-# 1. Get your career companion
+# 1. Clone the repository
 git clone https://github.com/manavpthaker/career-companion-ai
 cd career-companion-ai
 
-# 2. Let us handle the technical stuff
-./setup.sh  # Installs everything automatically
+# 2. Set up Python environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
 
-# 3. Tell us about yourself
+# 3. Configure your settings
+cp config/config.example.yaml config/job_search_config.yaml
+# Edit config/job_search_config.yaml with your preferences
+
+# 4. Add your resume content
 cp templates/resume.example.txt templates/resume.txt
-# Edit with your information (we'll guide you)
+# Edit templates/resume.txt with your information
 
-# 4. Set your preferences
-cp config/config.example.yaml config/my_config.yaml
-# Configure your job preferences (location, role, etc.)
-
-# 5. Start your journey
-python start_companion.py
+# 5. Set up API keys (required)
+cp .env.example .env
+# Add your API keys to .env file
 ```
 
-### 🎯 Your First Week Game Plan
+### 🎯 Getting Started
 
-**Day 1: Setup & Orientation** (30 minutes)
+**Basic Usage:**
 ```bash
-python start_companion.py --guided-setup
+# Discover jobs from multiple sources
+python job_discovery_engine.py
+
+# Scrape specific LinkedIn jobs you've saved
+python scrape_pending_jobs.py
+
+# Generate application materials
+python add_new_linkedin_jobs.py
 ```
-- We'll walk you through everything
-- Import your LinkedIn profile automatically
-- Set up your job preferences
-- Configure your "dream companies" list
 
-**Day 2-3: Discovery Phase**
-```bash
-python job_discovery_engine.py --initial-scan
-```
-- AI scouts find 100+ relevant opportunities
-- Filters to your top 20-30 matches
-- Prepares intelligence reports on each company
+**Note:** This is a technical tool that requires:
+- Python programming knowledge to customize
+- API keys for various services (OpenAI/Anthropic, News API)
+- Manual configuration of your resume and preferences
+- Understanding of how to run Python scripts
 
-**Day 4-5: Application Sprint**
-```bash
-python generate_applications.py --review-mode
-```
-- Generate personalized applications
-- Review and approve before sending
-- Track everything in your dashboard
+## 🤝 Contributing
 
-**Day 6-7: Optimize & Iterate**
-```bash
-python analyze_performance.py --weekly-report
-```
-- See what's working
-- Adjust strategy based on data
-- Celebrate early wins!
+This is an open-source project and we welcome contributions:
 
-## 🤝 You're Joining a Movement
+### Ways to Help
 
-### Community Support
-
-This isn't just software—it's a community of people helping each other through career transitions:
-
-- **💬 24/7 Support Forum**: Get help anytime from people who understand
-- **📚 Shared Wisdom**: Learn from others' successful strategies
-- **🎯 Accountability Partners**: Team up with others in similar situations
-- **🎉 Victory Celebrations**: Share your wins and inspire others
-- **🔧 Continuous Improvement**: Your feedback makes the platform better for everyone
-
-### Ways to Get Involved
-
-- **⭐ Star this repo** to help others find it
-- **🐛 Report issues** to improve the platform
-- **💡 Share ideas** for new features
-- **📝 Contribute code** if you're technical
-- **📢 Spread the word** to help others in need
-- **🎉 Share your success** to inspire the community
+- **⭐ Star this repo** if you find it useful
+- **🐛 Report bugs** via GitHub issues
+- **💡 Suggest features** you'd find helpful
+- **📝 Contribute code** via pull requests
+- **📚 Improve documentation** to help others get started
+- **🧪 Test the tool** and provide feedback
 
 ## 📚 Resources & Documentation
 

@@ -1,6 +1,6 @@
 # 📋 Complete Setup Guide
 
-This guide will walk you through setting up the Job Search Automation System from scratch.
+This guide will walk you through setting up CareerCompanion AI from scratch.
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
@@ -46,13 +46,13 @@ git --version
 ### Step 1: Clone the Repository
 ```bash
 # Clone via HTTPS
-git clone https://github.com/[username]/job-search-automation.git
+git clone https://github.com/manavpthaker/career-companion-ai.git
 
-# Or clone via SSH
-git clone [EMAIL]:[username]/job-search-automation.git
+# Or clone via SSH (if you have SSH keys set up)
+git clone [EMAIL]:manavpthaker/career-companion-ai.git
 
 # Navigate to project directory
-cd job-search-automation
+cd career-companion-ai
 ```
 
 ### Step 2: Run Setup Script
